@@ -1,3 +1,6 @@
+import { RouterProvider } from "react-router";
+import { router } from "./router/router";
+
 export function App() {
-  return <div>Orbit</div>;
+  return <RouterProvider router={router} />;
 }
