@@ -1,0 +1,16 @@
+{
+  "name": "orbit",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Trello-style task boards for solo and team use",
+  "keywords": [],
+  "author": "",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.9.0",
+      "onFail": "download"
+    }
+  },
+  "type": "module"
+}
